@@ -12,10 +12,3 @@ Here I present the method I use to beautify the process of restoring the i3 work
 ## Usage
 
 Simply add the script `rest-ws-i3` to your i3 config to autostart it on login if you want to restore your saved workspaces. I usually save them on logout, reboot and poweroff. 
-
-## Demo
-
-
-https://user-images.githubusercontent.com/54718071/112203081-6a8f2c80-8c12-11eb-8a83-926c3d78af4e.mp4
-
-
