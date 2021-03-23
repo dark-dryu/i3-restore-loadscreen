@@ -1,0 +1,10 @@
+#!/bin/sh
+
+$HOME/.bin/eww daemon
+sleep 1 #allows to start de daemon
+$HOME/.bin/eww open-many blur_full progress prog-title
+for i in {1..10}
+do
+   i3-resurrect restore -w $i
+done
+$HOME/.bin/eww close-all
