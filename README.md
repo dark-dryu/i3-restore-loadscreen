@@ -9,3 +9,6 @@ Here I present the method I use to beautify the process of restoring the i3 work
 <li>picom-jonaburg-git (see picom config to get the blur effect)
 </ul>
 
+## Usage
+
+Simply add the script `rest-ws-i3` to your i3 config to autostart it on login if you want to restore your saved workspaces. I usually save them on logout, reboot and poweroff. 
