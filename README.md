@@ -15,4 +15,7 @@ Simply add the script `rest-ws-i3` to your i3 config to autostart it on login if
 
 ## Demo
 
-<source type="video/mp4" src="demo.mp4"></source>
+
+https://user-images.githubusercontent.com/54718071/112203081-6a8f2c80-8c12-11eb-8a83-926c3d78af4e.mp4
+
+
